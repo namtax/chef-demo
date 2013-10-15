@@ -200,8 +200,8 @@ DEPENDENCIES
   mongoid (>= 3.0.11)
   mongoid-rspec (>= 1.4.6)
   quiet_assets (>= 1.0.1)
-  rack (= 1.4.5)
   rails
+  rake
   rspec-rails (>= 2.11.4)
   sass-rails (~> 3.2.3)
   thin (>= 1.5.0)
